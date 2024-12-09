@@ -61,7 +61,7 @@ Enhance the provided .blend file containing a basic room structure. The task is 
 **Description:**
 Develop an interactive and engaging game using any game development platform of your choice (e.g., Unity, Unreal Engine, Godot, etc.). This can be a 2D or 3D game, a puzzle, adventure, action, or simulation game—there are no specific style restrictions. The project should be original and it must showcase your creativity. No pre-built templates allowed without significant customization. The goal is to create a fun, playable game with an intuitive user experience. Use your creativity to design game mechanics, visuals, and sound, and bring your ideas to life in an interactive environment.
 
-**Features:**
+**Requirements and Features:**
 - Choose any genre (2D or 3D, puzzle, action, adventure, etc.).
 - Implement core game mechanics (movement, combat, progression, etc.).
 - Include interactive elements like buttons, menus, or achievements.
