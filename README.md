@@ -37,10 +37,10 @@ Create an interactive AR business card using Unity and AR Foundation. Design a 3
 - Submit a video demonstration showing the AR business card in action.
 - Include the complete source code and project files.
 - Provide project documentation, including a brief overview of the design and technical aspects.
-- Zip your files into a single archive named: ARBusinessCard_YourName.zip
+- Zip your files into a single archive named: BusinessCard_YourName.zip
 
 
-### 3. Room Revamp
+### 3. 3D Room Revamp
 **Description:**
 Enhance the provided .blend file containing a basic room structure. The task is to transform the room into a visually appealing and functional space by adding details such as furniture, lighting, textures, or any other creative elements. The goal is to showcase your design and modeling skills while maintaining a cohesive and visually appealing environment.
 
