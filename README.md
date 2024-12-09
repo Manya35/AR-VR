@@ -1,1 +1,2 @@
 # AR-VR-Repo
+A diverse collection of AR-VR tasks designed to help developers sharpen their skills and deepen their understanding of augmented and virtual reality technologies. This repository includes challenges in 3D animation, creative filter making, AR development using Unity, and game creation. It's an excellent opportunity for developers to explore hands-on projects, enhance their expertise, and engage with cutting-edge AR-VR concepts
