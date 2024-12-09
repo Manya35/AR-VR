@@ -1,4 +1,4 @@
-# AR-VR-Repo
+# AR-VR Repo
 
 A diverse collection of AR-VR projeccts designed to help developers sharpen their skills and deepen their understanding of augmented and virtual reality technologies. This repository includes challenges in 3D animation, creative filter making, AR development using Unity, and game creation. It's an excellent opportunity for developers to explore hands-on projects, enhance their expertise, and engage with cutting-edge AR-VR concepts.
 ## Projects
@@ -21,6 +21,7 @@ Create an interactive AR filter showcasing a unique superpower of your choice, t
   - Development Process
   - Challenges faced
 - Zip your files into a single archive named: SuperpowerSelfie_YourName.zip
+
 
 ### 2. AR Business Card
 **Description:**
@@ -53,3 +54,27 @@ Enhance the provided .blend file containing a basic room structure. The task is 
 - Submit the final project in .blend format, ensuring compatibility with Blender 3.x. onwards.
 - Also submit a photo and a video showcasing your project in the final view (snapshot of the viewport and a rendered image/ video tour of the room).
 - Zip your files into a single archive named: RoomRevamp_YourName.zip
+
+
+### 4. Game Development Project
+
+**Description:**
+Develop an interactive and engaging game using any game development platform of your choice (e.g., Unity, Unreal Engine, Godot, etc.). This can be a 2D or 3D game, a puzzle, adventure, action, or simulation game—there are no specific style restrictions. The project should be original and it must showcase your creativity. No pre-built templates allowed without significant customization. The goal is to create a fun, playable game with an intuitive user experience. Use your creativity to design game mechanics, visuals, and sound, and bring your ideas to life in an interactive environment.
+
+**Features:**
+- Choose any genre (2D or 3D, puzzle, action, adventure, etc.).
+- Implement core game mechanics (movement, combat, progression, etc.).
+- Include interactive elements like buttons, menus, or achievements.
+- Try to enhance the game with visuals, sound effects, and music.
+- Ensure the game runs smoothly and is playable on the target platform (PC, mobile).
+
+**Submission Guidelines:**
+- Submit the game in a playable format (e.g., executable file, app, or web link).
+- Provide a short demo video (30-60 seconds) showcasing the gameplay.
+- Include project documentation with:
+  - Concept Explanation
+  - Game Mechanics Overview
+  - Development Process and Tools Used
+  - Challenges faced
+- Zip your files into a single archive named: GameDev_YourName.zip.
+
