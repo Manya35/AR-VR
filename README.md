@@ -15,4 +15,23 @@ Enhance the provided .blend file containing a basic room structure. The task is 
 **Submission Guidelines:**
 - Submit the final project in .blend format, ensuring compatibility with Blender 3.x.
 - Also submit a photo or video showcasing your project in the final view (e.g., a rendered image or a short video tour of the room).
-- Zip your files into a single archive named: <YourName>_RoomRevamp.zip
+- Zip your files into a single archive named: RoomRevamp_YourName.zip
+
+### 2. AR Connect
+2. Interactive AR Business Card
+**Description:**
+Create an interactive AR business card using Unity and AR Foundation. Design a 3D model of a business card that comes to life when viewed through an AR device. Implement engaging interactions such as tapping on the card to reveal additional details, play animations, or display contact information. The project should offer a seamless and immersive experience for users.
+
+**Features:**
+- Design an engaging 3D business card model.
+- Implement intuitive user interactions, such as tapping for additional info or animations.
+- Use AR Foundation and Vuforia to bring the card to life in AR.
+- Ensure smooth, responsive performance across different devices.
+
+**Submission Guidelines:**
+- Submit a video demonstration showing the AR business card in action.
+- Include the complete source code and project files.
+- Provide project documentation, including a brief overview of the design and technical aspects.
+- Zip your files into a single archive named: ARBusinessCard_YourName.zip
+
+
