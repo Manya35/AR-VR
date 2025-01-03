@@ -33,12 +33,12 @@ Create an interactive AR filter showcasing a unique superpower of your choice, t
 
 ### 2. AR Business Card
 **Description:**
-Create an interactive AR business card using Unity and AR Foundation. Design a 3D model of a business card that comes to life when viewed through an AR device. Implement engaging interactions such as tapping on the card to reveal additional details, play animations, or display contact information. The project should offer a seamless and immersive experience for users.
+Create an interactive AR business card using Unity. Design a 3D model of a business card that comes to life when viewed through an AR device. Implement engaging interactions such as tapping on the card to reveal additional details, play animations, or display contact information. The project should offer a seamless and immersive experience for users.
 
 **Requirements and Features:**
 - Design an engaging 3D business card model.
 - Implement intuitive user interactions, such as tapping for additional info or animations.
-- Use AR Foundation and Vuforia to bring the card to life in AR.
+- Use Unity and Vuforia to bring the card to life in AR.
 - Ensure smooth, responsive performance across different devices.
 
 **Submission Guidelines:**
