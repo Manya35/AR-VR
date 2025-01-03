@@ -4,6 +4,10 @@ A diverse collection of AR-VR projects designed to help developers sharpen their
 
 ## Maintainers
 [Vani Varanya](https://github.com/vanivaranya)  |  [Ayushi Bhati](https://github.com/ayushibhati)
+Feel free to reach out to the maintainers if you feel stuck, or wish to report someone.
+
+## Reviewers
+[Arushi Shree Manoj](https://github.com/twitchyarushi)  |  [Palak Bhatia](https://github.com/palaksss)
 
 ## Projects
 
