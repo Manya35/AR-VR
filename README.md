@@ -7,7 +7,7 @@ A diverse collection of AR-VR projects designed to help developers sharpen their
 Feel free to reach out to the maintainers if you feel stuck, or wish to report someone.
 
 ## Reviewers
-[Arushi Shree Manoj](https://github.com/twitchyarushi)  |  [Palak Bhatia](https://github.com/palaksss)
+[Arushi Shree Manoj](https://github.com/twitchyarushi) &nbsp;&nbsp; [Palak Bhatia](https://github.com/palaksss)
 
 ## Projects
 
