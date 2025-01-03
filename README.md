@@ -97,7 +97,7 @@ Develop an interactive and engaging game using any game development platform of 
 - Repository-specific contribution information is in the respective READMEs of each repo.
 - Do not abuse and/or use bad language. Ensure you don't insult anyone. Be respectful and inclusive.
 - Please mention your full name on your GitHub handle to be eligible for prizes.
-<br>
+
 You can take up any of the existing issues or create a new issue to contribute any of your models and descriptions!
 Contribution period ends: 30th January 2025
 
@@ -125,6 +125,6 @@ Shoutouts on Social Media handles | Swag kits and lots of exciting goodies | Cer
 
 - Top 25 contributors ❄️
 Swag kits and lots of exciting goodies | Certificate of appreciation
-<br>
-All the contributors will get a certificate of appreciation for their first successful pull request. <br>
+
+All the contributors will get a certificate of appreciation for their first successful pull request. <br> <br>
 Join our [Discord](https://discord.com/channels/878200942909091901/1013543890525106176) to stay in touch with project mentors and for any further questions.
