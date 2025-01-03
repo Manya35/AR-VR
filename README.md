@@ -3,11 +3,11 @@
 A diverse collection of AR-VR projects designed to help developers sharpen their skills and deepen their understanding of augmented and virtual reality technologies. This repository includes challenges in 3D animation, creative filter making, AR development using Unity, and game creation. It's an excellent opportunity for developers to explore hands-on projects, enhance their expertise, and engage with cutting-edge AR-VR concepts.
 
 ## Maintainers
-[Vani Varanya](https://github.com/vanivaranya) &nbsp;&nbsp; [Ayushi Bhati](https://github.com/ayushibhati) <br> 
+[Vani Varanya](https://github.com/vanivaranya) &nbsp;and &nbsp; [Ayushi Bhati](https://github.com/ayushibhati) <br> 
 Feel free to reach out to the maintainers if you feel stuck, or wish to report someone.
 
 ## Reviewers
-[Arushi Shree Manoj](https://github.com/twitchyarushi) &nbsp;&nbsp; [Palak Bhatia](https://github.com/palaksss)
+[Arushi Shree Manoj](https://github.com/twitchyarushi) &nbsp;and &nbsp; [Palak Bhatia](https://github.com/palaksss)
 
 ## Projects
 
@@ -102,8 +102,8 @@ You can take up any of the existing issues or create a new issue to contribute a
 Contribution period ends: 30th January 2025
 
 ## How to get started?
-You can refer to the following resources on Git and Github to get started and contact our Project Mentors via Discord if you have any doubts.
-
+You can refer to the following resources on Git and Github to get started and contact our Project Mentors via [Discord](https://discord.com/channels/878200942909091901/1013543890525106176) if you have any doubts.
+<br>
 - [Learn how to contribute to GDSC IGDTUW Snowscript Winter of Code Projects](https://www.youtube.com/watch?v=Hcc1LXldeJk)
 - [Go through this repository to learn how to contribute step-by-step](https://github.com/firstcontributions/first-contributions)
 - [Watch this video to get started](https://www.youtube.com/watch?v=SL5KKdmvJ1U)
@@ -125,6 +125,6 @@ Shoutouts on Social Media handles | Swag kits and lots of exciting goodies | Cer
 
 - Top 25 contributors ❄️
 Swag kits and lots of exciting goodies | Certificate of appreciation
-
-All the contributors will get a certificate of appreciation for their first successful pull request
-Join our Discord to stay in touch with project mentors and for any further questions.
+<br>
+All the contributors will get a certificate of appreciation for their first successful pull request. <br>
+Join our [Discord](https://discord.com/channels/878200942909091901/1013543890525106176) to stay in touch with project mentors and for any further questions.
