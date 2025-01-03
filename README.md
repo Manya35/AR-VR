@@ -99,7 +99,7 @@ Develop an interactive and engaging game using any game development platform of 
 - Please mention your full name on your GitHub handle to be eligible for prizes.
 
 You can take up any of the existing issues or create a new issue to contribute any of your models and descriptions!
-Contribution period ends: 30th January 2025
+Contribution period ends: 15th February 2025
 
 ## How to get started?
 You can refer to the following resources on Git and Github to get started and contact our Project Mentors via [Discord](https://discord.com/channels/878200942909091901/1013543890525106176) if you have any doubts.
