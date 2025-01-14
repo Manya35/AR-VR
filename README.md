@@ -92,7 +92,7 @@ Develop an interactive and engaging game using any game development platform of 
 - Wait for the issue to be assigned to you after which you can start working on it.
 - Fork the repo and create a branch for any issue that you are working on.
 - Create a Pull Request which will be promptly reviewed and suggestions will be added to improve it.
-- Mention the issue no. and changes made by you in PR.
+- Mention the issue name and changes made by you in PR.
 - Once your PR is approved, your changes will be merged into the project.
 - Add Screenshots to help us know what this script is all about.
 - Repository-specific contribution information is in the respective READMEs of each repo.
