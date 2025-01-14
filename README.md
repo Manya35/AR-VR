@@ -44,7 +44,7 @@ Create an interactive AR business card using Unity. Design a 3D model of a busin
 **Submission Guidelines:**
 - Submit a video demonstration showing the AR business card in action.
 - Include the complete source code and project files.
-- Provide project documentation, including a brief overview of the design and technical aspects.
+- Provide project documentation, including a brief overview of the design and technical aspects, concept explanation, development process and the challenges faced
 - Zip your files into a single archive named: BusinessCard_YourName.zip
 
 
@@ -61,6 +61,10 @@ Enhance the provided .blend file containing a basic room structure. The task is 
 **Submission Guidelines:**
 - Submit the final project in .blend format, ensuring compatibility with Blender 3.x. onwards.
 - Also submit a photo and a video showcasing your project in the final view (snapshot of the viewport and a rendered image/ video tour of the room).
+- Include project documentation with:
+  - Concept Explanation
+  - Development Process
+  - Challenges faced
 - Zip your files into a single archive named: RoomRevamp_YourName.zip
 
 
