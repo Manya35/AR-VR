@@ -87,13 +87,14 @@ Develop an interactive and engaging game using any game development platform of 
 - Zip your files into a single archive named: GameDev_YourName.zip.
 
 ## Contributing to the Projects
-- Look at the Existing Issues of your project and find one that interests you or create your own Issues!
-- Tag the repository maintainers or issue creators to assign that issue to you.
-- Wait for the Issue to be assigned to you after which you can start working on it.
-- Fork the Repo and create a Branch for any Issue that you are working on.
+- Look at the existing issues of your project and find one that interests you or create your own issues!
+- Tag the repository maintainers to assign that issue to you.
+- Wait for the issue to be assigned to you after which you can start working on it.
+- Fork the repo and create a branch for any issue that you are working on.
 - Create a Pull Request which will be promptly reviewed and suggestions will be added to improve it.
+- Mention the issue no. and changes made by you in PR.
 - Once your PR is approved, your changes will be merged into the project.
-- Add Screenshots to help us know what this Script is all about.
+- Add Screenshots to help us know what this script is all about.
 - Repository-specific contribution information is in the respective READMEs of each repo.
 - Do not abuse and/or use bad language. Ensure you don't insult anyone. Be respectful and inclusive.
 - Please mention your full name on your GitHub handle to be eligible for prizes.
